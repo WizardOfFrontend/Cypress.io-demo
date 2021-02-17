@@ -1,0 +1,9 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "invalidUsername": "invalidUsername",
+  "invalidPassword": "invalidPassword",
+  "firstName": "Toby",
+  "lastName": "Chee",
+  "zip": "98029"
+}
